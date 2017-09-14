@@ -1,6 +1,6 @@
-# DaZhongDianPing
+# 大众点评数据分析
 
-原文发表在知乎：https://zhuanlan.zhihu.com/p/29198391
+# 原文发表在知乎：https://zhuanlan.zhihu.com/p/29198391
 
 仅针对本次数据，分析可以得出以下结论：
 
